@@ -114,6 +114,3 @@ This project demonstrates how artificial intelligence and machine learning can b
 * Scikit-learn Documentation
 * Streamlit Documentation
 * CIC-IDS2017 Dataset – Canadian Institute for Cybersecurity
-
-```
-
